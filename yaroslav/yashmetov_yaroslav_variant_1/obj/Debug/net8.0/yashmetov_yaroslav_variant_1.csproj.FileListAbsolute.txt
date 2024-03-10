@@ -1,0 +1,11 @@
+C:\Users\arhon\source\repos\yaroslav\yashmetov_yaroslav_variant_1\bin\Debug\net8.0\yashmetov_yaroslav_variant_1.deps.json
+C:\Users\arhon\source\repos\yaroslav\yashmetov_yaroslav_variant_1\bin\Debug\net8.0\yashmetov_yaroslav_variant_1.dll
+C:\Users\arhon\source\repos\yaroslav\yashmetov_yaroslav_variant_1\bin\Debug\net8.0\yashmetov_yaroslav_variant_1.pdb
+C:\Users\arhon\source\repos\yaroslav\yashmetov_yaroslav_variant_1\obj\Debug\net8.0\yashmetov_yaroslav_variant_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arhon\source\repos\yaroslav\yashmetov_yaroslav_variant_1\obj\Debug\net8.0\yashmetov_yaroslav_variant_1.AssemblyInfoInputs.cache
+C:\Users\arhon\source\repos\yaroslav\yashmetov_yaroslav_variant_1\obj\Debug\net8.0\yashmetov_yaroslav_variant_1.AssemblyInfo.cs
+C:\Users\arhon\source\repos\yaroslav\yashmetov_yaroslav_variant_1\obj\Debug\net8.0\yashmetov_yaroslav_variant_1.csproj.CoreCompileInputs.cache
+C:\Users\arhon\source\repos\yaroslav\yashmetov_yaroslav_variant_1\obj\Debug\net8.0\yashmetov_yaroslav_variant_1.dll
+C:\Users\arhon\source\repos\yaroslav\yashmetov_yaroslav_variant_1\obj\Debug\net8.0\refint\yashmetov_yaroslav_variant_1.dll
+C:\Users\arhon\source\repos\yaroslav\yashmetov_yaroslav_variant_1\obj\Debug\net8.0\yashmetov_yaroslav_variant_1.pdb
+C:\Users\arhon\source\repos\yaroslav\yashmetov_yaroslav_variant_1\obj\Debug\net8.0\ref\yashmetov_yaroslav_variant_1.dll

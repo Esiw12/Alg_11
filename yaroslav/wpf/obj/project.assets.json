@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "console_varik_1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "yashmetov_yaroslav_variant_1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/console_varik_1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/console_varik_1.dll": {}
+        }
+      },
+      "yashmetov_yaroslav_variant_1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/yashmetov_yaroslav_variant_1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/yashmetov_yaroslav_variant_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "console_varik_1/1.0.0": {
+      "type": "project",
+      "path": "../console_varik_1/console_varik_1.csproj",
+      "msbuildProject": "../console_varik_1/console_varik_1.csproj"
+    },
+    "yashmetov_yaroslav_variant_1/1.0.0": {
+      "type": "project",
+      "path": "../yashmetov_yaroslav_variant_1/yashmetov_yaroslav_variant_1.csproj",
+      "msbuildProject": "../yashmetov_yaroslav_variant_1/yashmetov_yaroslav_variant_1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "console_varik_1 >= 1.0.0",
+      "yashmetov_yaroslav_variant_1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\arhon\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\arhon\\source\\repos\\yaroslav\\wpf\\wpf.csproj",
+      "projectName": "wpf",
+      "projectPath": "C:\\Users\\arhon\\source\\repos\\yaroslav\\wpf\\wpf.csproj",
+      "packagesPath": "C:\\Users\\arhon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arhon\\source\\repos\\yaroslav\\wpf\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\arhon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\arhon\\source\\repos\\yaroslav\\console_varik_1\\console_varik_1.csproj": {
+              "projectPath": "C:\\Users\\arhon\\source\\repos\\yaroslav\\console_varik_1\\console_varik_1.csproj"
+            },
+            "C:\\Users\\arhon\\source\\repos\\yaroslav\\yashmetov_yaroslav_variant_1\\yashmetov_yaroslav_variant_1.csproj": {
+              "projectPath": "C:\\Users\\arhon\\source\\repos\\yaroslav\\yashmetov_yaroslav_variant_1\\yashmetov_yaroslav_variant_1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

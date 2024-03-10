@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "wpf/1.0.0": {
+        "dependencies": {
+          "console_varik_1": "1.0.0",
+          "yashmetov_yaroslav_variant_1": "1.0.0"
+        },
+        "runtime": {
+          "wpf.dll": {}
+        }
+      },
+      "console_varik_1/1.0.0": {
+        "dependencies": {
+          "yashmetov_yaroslav_variant_1": "1.0.0"
+        },
+        "runtime": {
+          "console_varik_1.dll": {}
+        }
+      },
+      "yashmetov_yaroslav_variant_1/1.0.0": {
+        "runtime": {
+          "yashmetov_yaroslav_variant_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "console_varik_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "yashmetov_yaroslav_variant_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
